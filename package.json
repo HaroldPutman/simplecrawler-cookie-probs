@@ -1,0 +1,16 @@
+{
+  "name": "simplecrawler-cookie-probs",
+  "version": "1.0.0",
+  "description": "Demonstrate problems with cookies and simplecrawler",
+  "author": "Harold Putman",
+  "license": "ISC",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaroldPutman/simplecrawler-cookie-probs.git"
+  },
+  "scripts": {"start": "node index.js"},
+  "dependencies": {
+    "simplecrawler": "^1.1.5"
+  }
+}
