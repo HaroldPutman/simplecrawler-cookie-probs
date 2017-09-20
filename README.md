@@ -1,6 +1,6 @@
 # simplecrawler-cookie-probs
 Show problems with cookies and [simplecrawler](https://github.com/simplecrawler/simplecrawler).
-To see the fixed version checkout the [fixed branch](../../tree/fixed).
+This is the fixed version. To see the broken version checkout the [master branch](../../tree/master).
 
 ## Description
 There are two problems with cookie handling in simplecrawler
